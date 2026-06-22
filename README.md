@@ -1,0 +1,2 @@
+# IOT-based-BMS-for-remote-battery-health-monitoring-and-prevention
+An IoT-based Battery Management System for remote health monitoring and prevention is designed to continuously track battery performance, predict failures, and extend battery life using sensor data, cloud connectivity, and machine learning models. It enables proactive maintenance, reduces downtime, and ensures safety in energy storage .
